@@ -1,0 +1,156 @@
+.container {
+    margin: 0 10px 12px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 1195px;
+    box-sizing: border-box;
+    justify-content: space-between;
+  }
+  .container-1 {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: space-between;
+  }
+  .desktop-1 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding: 28px 39px 109px 49px;
+    width: 1440px;
+    box-sizing: border-box;
+    justify-content: space-between;
+  }
+  .rectangle-4 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/trialprojects/trial-8vszCrWr6Fi97v7cn9enaE/assets/images/43ff1c4ae5ebdf9290cf5341f979afa29e1d9fea?Expires=1711058861&KeyName=fn12-cdn&Signature=6ljl6wQFtVEBBkIcF1E70j0AmQs=') 50% / cover no-repeat;
+    margin-right: 500px;
+    width: 1000px;
+    height: 400px;
+  }
+  .stephen-kaiga-githinji {
+    margin-bottom: 18px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 48px;
+    color: #000000;
+  }
+  .ui-ux-designer {
+    margin-right: 18.1px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 48px;
+    color: #000000;
+  }
+  .instagram-1 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/trialprojects/trial-8vszCrWr6Fi97v7cn9enaE/assets/images/c989d1bc9130dc61d956178d67ea0865e881036b?Expires=1711058861&KeyName=fn12-cdn&Signature=bBE4bRGY-EiWhQvu7Z-LQu3Tj4c=') 50% / cover no-repeat;
+    margin: 6px 18px 0 0;
+    width: 53px;
+    height: 51px;
+  }
+  .i-am-a-diligent-ui-ux-designer-with-1-year-of-experience-in-the-field-i-am-eager-to-join-safaricom-plc-as-my-first-ever-tech-company-i-am-skilled-in-ux-ui-design-content-creation-and-graphic-designing {
+    margin-right: 20px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 32px;
+    color: #000000;
+    margin-top: 100px;
+  }
+  .twitter-1 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/trialprojects/trial-8vszCrWr6Fi97v7cn9enaE/assets/images/ec8795722329e3fcf6804406e537ac15cfbf081c?Expires=1711058861&KeyName=fn12-cdn&Signature=_F9V103Gx26A8n0I8-mUnzjwszE=') 50% / cover no-repeat;
+    margin: 6px 27px 0 0;
+    width: 54px;
+    height: 51px;
+  }
+  .facebook-1 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/trialprojects/trial-8vszCrWr6Fi97v7cn9enaE/assets/images/a11908d5c748fc573d1f79b361b00ed7e33108d1?Expires=1711058861&KeyName=fn12-cdn&Signature=6NV0J7uV8wpoyI_bZnXCxvp5yws=') 50% / cover no-repeat;
+    margin-right: 39px;
+    width: 56px;
+    height: 57px;
+  }
+  .linkedin-1 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/trialprojects/trial-8vszCrWr6Fi97v7cn9enaE/assets/images/e96c17da338ecfab8f31d4c345b090fe9e7d8aeb?Expires=1711058861&KeyName=fn12-cdn&Signature=sFC2b95-xyxBvR99gTw3Z7B88s4=') 50% / cover no-repeat;
+    margin-top: 6px;
+    width: 49px;
+    height: 51px;
+  }
+  .email-me {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 60px;
+    color: #FFFFFF;
+  }
+  .resume {
+    margin-left: 15px;
+    margin-top: 200px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 60px;
+    color: #FFFFFF;
+  }
+  .about-me {
+    margin: 0 0 91px 25px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 96px;
+    color: #000000;
+  }
+  .container-2 {
+    background: #000000;
+    position: relative;
+    margin-top: 20px;
+    padding: 0 13px 15px 13px;
+    width: 392px;
+    box-sizing: border-box;
+    justify-content: space-between;
+  }
+  .container-3 {
+    margin-top: 20px;
+    background: #000000;
+    position: relative;
+    margin: 0 62px 110px 62px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 9px 14.6px 17px 0;
+    width: 468px;
+    box-sizing: border-box;
+    justify-content: space-between;
+  }
+  .container-4 {
+    margin: 28px 0 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: space-between;
+  }
+  .container-5 {
+    margin-bottom: 19px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+    justify-content: space-between;
+  }
+  .container-6 {
+    margin: 0 72px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 296px;
+    box-sizing: border-box;
+    justify-content: space-between;
+  }
